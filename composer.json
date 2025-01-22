@@ -4,15 +4,10 @@
     "keywords": ["laravel", "query", "builder", "querybuilder", "anourvalar", "serialize", "serialization", "eloquent", "serializable", "job", "queue", "copy"],
     "homepage": "https://github.com/AnourValar/eloquent-serialize",
     "license": "MIT",
-    "require": {
-      
-    },
-    "require-dev": {
-         
-    },
+ 
     "replace": {
         "anourvalar/eloquent-serialize":"*"
-    }
+    },
     "autoload": {
         "psr-4": {"AnourValar\\EloquentSerialize\\": "src/"}
     },
